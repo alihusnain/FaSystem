@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d46d5f84999b4ca6a938f32c9901f722" Name="Diagram1" ZoomLevel="63">
+        <EntityTypeShape EntityType="TFSDataBaseModel.Announcement" PointX="6.75" PointY="0.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.Class" PointX="4.75" PointY="0.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.StudentClass" PointX="4.75" PointY="3.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.StudentAssignmnet" PointX="2.75" PointY="4.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.teacherAssignment" PointX="0.75" PointY="7.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.Quiz" PointX="8.75" PointY="7.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.QuizStudent" PointX="10.75" PointY="0.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.Subject" PointX="10.75" PointY="6.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.SubjectSectionTeacher" PointX="12.75" PointY="0.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.TeacherAttendance" PointX="2.75" PointY="9.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.User" PointX="6.75" PointY="11.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.Clerk" PointX="4.75" PointY="9.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.Student" PointX="2.75" PointY="0.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.Teacher" PointX="8.75" PointY="0.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.UserPhone" PointX="10.75" PointY="9.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.UserQualification" PointX="12.75" PointY="3.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.Employee" PointX="8.75" PointY="12.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.Group" PointX="12.75" PointY="7.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.GroupSubject" PointX="0.75" PointY="12.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.Diary" PointX="10.75" PointY="3.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.StudentSubjectSection" PointX="8.75" PointY="4.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.StudentAttendance" PointX="6.75" PointY="3.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.Level" PointX="0.75" PointY="4.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.SubjectN" PointX="4.75" PointY="6.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.Table" PointX="0.75" PointY="0.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.Section" PointX="6.75" PointY="6.75" Width="1.5" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.SubjectSection" Width="1.5" PointX="11.375" PointY="12.75" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.About" Width="1.5" PointX="3.75" PointY="13.75" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.Course" Width="1.5" PointX="13.75" PointY="10.75" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.EventOfInstitute" Width="1.5" PointX="13.75" PointY="14.75" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.Faculty" Width="1.5" PointX="15.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.Feedback" Width="1.5" PointX="0.75" PointY="15.75" />
+        <EntityTypeShape EntityType="TFSDataBaseModel.News" Width="1.5" PointX="15.75" PointY="4.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
